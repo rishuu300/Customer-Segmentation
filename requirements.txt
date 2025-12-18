@@ -27,3 +27,4 @@ neuro_mf
 # pandas
 # numpy
 # kneed
+# catboost
