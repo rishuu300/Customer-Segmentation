@@ -20,14 +20,13 @@ wincertstore==0.2
 xgboost==1.6.2
 python-multipart
 neuro_mf
-# scikit-learn
+scikit-learn
 # ipykernel
-# matplotlib
-# seaborn
-# pandas
-# numpy
+matplotlib
+seaborn
+pandas
+numpy
 # kneed
 # catboost
-# pymongo
-# pickle
-# flask
+pymongo
+flask
