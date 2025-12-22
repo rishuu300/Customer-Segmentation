@@ -28,3 +28,4 @@ neuro_mf
 # numpy
 # kneed
 # catboost
+# pymongo
